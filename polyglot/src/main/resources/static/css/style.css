@@ -1,4 +1,8 @@
 @charset "UTF-8";
+
+.logo-img{
+    width: 100%;
+}
 .top{
     margin-top:20px;
 }
