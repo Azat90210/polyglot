@@ -1,0 +1,89 @@
+@charset "UTF-8";
+.top{
+    margin-top:20px;
+}
+.white-text{
+    padding: 15px;
+    color: #4B4B4B;
+    font-size: 18px;
+    font-family: Roboto Slab;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+    background: white;
+    text-align: left;
+}
+
+.white-text-32{
+
+    color: #4B4B4B;
+    font-size: 24px;
+    font-family: Roboto Slab;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+    background: white;
+    text-align: left;
+}
+
+.white-text-center{
+    padding: 15px;
+    color: #4B4B4B;
+    font-size: 18px;
+    font-family: Roboto Slab;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+    background: white;
+}
+
+.white-text-center-32{
+    padding: 24px;
+    color: #4B4B4B;
+    font-size: 24px;
+    font-family: Roboto Slab;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+    background: white;
+}
+
+.grey-text{
+    padding: 15px;
+    color: white;
+    font-size: 24px;
+    font-family: Roboto Slab;
+    font-weight: 400;
+    text-decoration: underline;
+    word-wrap: break-word;
+    background: #4B4B4B;
+    vertical-align: middle;
+}
+
+.grey-line{
+    background: #747373;
+    border: 3px #747373 solid;
+}
+
+.white-line{
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+    background: #747373;
+    border: 3px white solid;
+}
+.button{
+    background: #747373;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 12px;
+
+}
+.price-text{
+    font-size: 24px;
+    font-family: Roboto Slab;
+    font-weight: 400;
+}
